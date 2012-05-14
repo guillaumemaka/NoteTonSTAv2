@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Restlet2.1rc3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 (MacOS X Default)">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/guillaume/Java Libraries/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/guillaume/Java Libraries/jstl-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/guillaume/Google SDKs/appengine-java-sdk-1.6.4.1.Datanucleusv2/lib/opt/user/datanucleus/v2/geronimo-jpa_2.0_spec-1.0.jar"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/appengine-java-sdk-1.6.4.1"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
